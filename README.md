@@ -1,4 +1,5 @@
-<img width="128" alt="mac256" src="https://user-images.githubusercontent.com/6172851/163730908-27ac88df-59d3-48fb-b54b-8926e70b0d79.png"> 
+![Social Media Preview](https://user-images.githubusercontent.com/6172851/163731801-48e9da3b-b828-4517-9c20-2da7ec01543f.png)
+
 
 Quickly toggle your Mac's System Appearance via Spotlight (Command–Space bar).
 
